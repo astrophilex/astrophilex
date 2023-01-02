@@ -19,3 +19,4 @@ I'm Yuna Kim, a growing developer
 <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=Git&logoColor=white"/></a>&nbsp
 </p>
 <br>
+<h3 align="center">•••</h3>
