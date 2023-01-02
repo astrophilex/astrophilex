@@ -9,11 +9,13 @@ I'm Yuna Kim, a growing developer
 <h3 align="center">📖 Technology Stack 📖</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=appveyor&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Springboot-81C147?style=for-the-badge&logo=appveyor&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=appveyor&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>&nbsp
 <br>
-<img src="https://img.shields.io/badge/Css3-skyblue?style=for-the-badge&logo=appveyor&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/HTML5-db4455?style=for-the-badge&logo=appveyor&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=appveyor&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=Git&logoColor=white"/></a>&nbsp
 </p>
+<br>
