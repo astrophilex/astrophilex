@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yuna%20Kim&fontSize=90)
 
-<h1 align="center">Hi there!🖐</h1>
+<h3 align="center">Hi there!🖐</h3>
 
-<h2 align="center">
+<p align="center">
 I'm Yuna Kim, a growing developer
-</h2>
+</p>
 
 <h3 align="center">📖 Technology Stack 📖</h3>
 
